@@ -32,19 +32,23 @@
 
 但需要**OEM贴牌和二次开发需求**
 
-请联系开发者
+请联系项目开发者
 WX：YSYC64
 
 ![引流获客截流](https://github.com/user-attachments/assets/ebb02fe4-a29a-4df1-92fe-3049773afc4f)
 
 
-# 2.软件展示
+# 2.部分展示
 
-![UI界面](https://github.com/user-attachments/assets/e9179c79-1bcf-4290-8c22-7805a63c3629)
-
-
+![UI界面1](https://github.com/user-attachments/assets/a1695322-6f6f-4685-8525-d24b24b241c5)
 
 
+![获客功能介绍](https://github.com/user-attachments/assets/3eda4fbc-31a3-413c-8474-77ca4240ea4b)
 
+
+
+# 3.原私域宝官网
+过去私域宝已有非常多的客户，详情见siyubao.com.cn，但是由于公司希望向AI方向的创业，再无人力维护代码更新
+故在此低价售出源码，造福更多的开发者，同时希望私域宝RPA项目能继续被二次延续服务更多用户
 
 
