@@ -40,7 +40,8 @@ WX：YSYC64
 
 # 2.软件展示
 
-![Uploading UI界面1.png…]()
+![UI界面](https://github.com/user-attachments/assets/e9179c79-1bcf-4290-8c22-7805a63c3629)
+
 
 
 
