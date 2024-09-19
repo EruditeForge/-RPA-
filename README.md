@@ -33,6 +33,6 @@
 但需要**OEM贴牌和二次开发需求**
 
 请联系开发者
+WX：YSYC64
 
-![](C:\Users\Administrator\Desktop\微信图片_20240919160519.jpg)
 
