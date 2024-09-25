@@ -50,10 +50,9 @@ WX：YSYC64
 # 3.官网下载
 私域官方网站为：https://siyubao.com.cn  
 
-**_如只是个人使用可直接前往官网下载最新版本的软件_**  
-  
+如只是个人使用可直接前往官网下载最新版本的软件
 
-
+![抖音获客_小红书截流_快手养号_视频号引流](https://github.com/user-attachments/assets/a4bce9db-5c26-4f83-943f-f96c311d342a)
 
 
 
