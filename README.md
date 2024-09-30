@@ -60,7 +60,7 @@ WX：YSYC64
 社群成员可免费使用该软件，并享受社群成员专属价值3599元的专业知识库
 快来和我们交流经验吧
 社群链接：
-![私域学院，探索私域引流和最新获客技术](https://tcni1p9iozbe.feishu.cn/wiki/OpDIwKIzEia0nOk6urjcHt18n5e)
+[私域学院，探索私域引流和最新获客技术](https://tcni1p9iozbe.feishu.cn/wiki/OpDIwKIzEia0nOk6urjcHt18n5e)
 
 
 
